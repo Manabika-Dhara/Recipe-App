@@ -8,7 +8,3 @@ Built using **HTML, CSS, and JavaScript**, this app provides a user-friendly way
 - View recipe details and ingredients
 - Responsive and easy-to-use interface
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/recipe-app.git
